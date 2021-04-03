@@ -1,11 +1,11 @@
 function Header () {
     return(
-        <header id="main-header">
+        <header className="ttl">
             <div>
                 <title>Graduation</title>
             </div>
             <div>
-                <h1>UNIVERSITY GRADUATION</h1>
+                <h1>UNIVERSITY GRADUATIONS</h1>
             </div>
         </header>
     );

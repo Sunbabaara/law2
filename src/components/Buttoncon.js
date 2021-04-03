@@ -1,7 +1,7 @@
-function Buttoncon (props) {
+function Buttoncon () {
     return (
         <div>
-          <button></button>  
+          <button id ="bttn">READ MORE...</button>  
         </div>
     );
 }

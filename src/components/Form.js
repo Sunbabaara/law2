@@ -1,11 +1,11 @@
 const Form = () => {
     return (
-        <div id="footer-con">
-        <form>
-            <input type="text" placeholder="enter name"/>
-            <input type="number" placeholder="enter age"/>
-            <input type="text" placeholder="enter email"/>
-            <button>Submit</button>
+        <div >
+        <form id="footer-con">
+            <input required type="text" placeholder="enter name"/>
+            <input required type="number" placeholder="enter age"/>
+            <input required type="text" placeholder="enter email"/>
+            <button id = "but">Submit</button>
         </form>
 
         </div>
