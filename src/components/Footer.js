@@ -1,4 +1,3 @@
-import Buttoncon from "./Buttoncon";
 import Form from "./Form";
 
 function Footer () {
